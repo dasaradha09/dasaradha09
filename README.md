@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dasaradha09
 - 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning machine learning na ddeep learning
+- 🌱 I’m currently learning machine learning and deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
